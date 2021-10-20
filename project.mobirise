@@ -72,7 +72,7 @@
     "mbrsiteDomain": "ycapqh794j",
     "robotsSwitcher": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
