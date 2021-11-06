@@ -1531,6 +1531,9 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
+.scrollToTop_wraper {
+  display: none;
+}
 .form-control {
   font-family: 'Jost', sans-serif;
   font-size: 1.1rem;
@@ -1906,7 +1909,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3817,7 +3820,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5447,7 +5450,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -7041,7 +7044,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -8495,7 +8498,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -10062,7 +10065,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -11531,7 +11534,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -13042,7 +13045,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #353535;
 }
 .cid-sMf8knWQVJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
