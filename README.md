@@ -1,2 +1,2 @@
-# Draphic-design
+# Graphic-design
 GitHub Pages
